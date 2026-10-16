@@ -2,7 +2,7 @@ name: Deploy web collage to GitHub Pages
 
 on:
   push:
-    branches: ["codex/image-collage"]
+    branches: ["codex/apple-interface"]
   workflow_dispatch:
 
 permissions:

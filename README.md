@@ -1,6 +1,6 @@
 # 戌無图片拼图
 
-网页版：[https://sange1022.github.io/xuwu-image-collage/](https://sange1022.github.io/xuwu-image-collage/)
+网页版：[https://sange0613.github.io/xuwu-image-collage/](https://sange0613.github.io/xuwu-image-collage/)
 
 面向 Windows 10/11 x64 的离线图片拼图工具，界面与“图片加水印”保持一致：左侧导入与排序、中间实时预览、右侧设置与导出。
 
